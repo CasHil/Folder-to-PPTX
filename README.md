@@ -1,6 +1,6 @@
 # Images to PowerPoint Presentation
 
-This script creates a PowerPoint presentation from images in a directory. The images are added to the presentation as centered slides.
+This script creates a PowerPoint presentation from images in a directory. Each image is centered and added to a seperate slide.
 
 ## Requirements
 
